@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\VerbalVersionOfNumber\VerbalVersionOfNumber\bin\Debug\netcoreapp3.1\VerbalVersionOfNumber.exe
+C:\Users\HP\source\repos\VerbalVersionOfNumber\VerbalVersionOfNumber\bin\Debug\netcoreapp3.1\VerbalVersionOfNumber.deps.json
+C:\Users\HP\source\repos\VerbalVersionOfNumber\VerbalVersionOfNumber\bin\Debug\netcoreapp3.1\VerbalVersionOfNumber.runtimeconfig.json
+C:\Users\HP\source\repos\VerbalVersionOfNumber\VerbalVersionOfNumber\bin\Debug\netcoreapp3.1\VerbalVersionOfNumber.runtimeconfig.dev.json
+C:\Users\HP\source\repos\VerbalVersionOfNumber\VerbalVersionOfNumber\bin\Debug\netcoreapp3.1\VerbalVersionOfNumber.dll
+C:\Users\HP\source\repos\VerbalVersionOfNumber\VerbalVersionOfNumber\bin\Debug\netcoreapp3.1\VerbalVersionOfNumber.pdb
+C:\Users\HP\source\repos\VerbalVersionOfNumber\VerbalVersionOfNumber\obj\Debug\netcoreapp3.1\VerbalVersionOfNumber.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\VerbalVersionOfNumber\VerbalVersionOfNumber\obj\Debug\netcoreapp3.1\VerbalVersionOfNumber.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\VerbalVersionOfNumber\VerbalVersionOfNumber\obj\Debug\netcoreapp3.1\VerbalVersionOfNumber.AssemblyInfo.cs
+C:\Users\HP\source\repos\VerbalVersionOfNumber\VerbalVersionOfNumber\obj\Debug\netcoreapp3.1\VerbalVersionOfNumber.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\VerbalVersionOfNumber\VerbalVersionOfNumber\obj\Debug\netcoreapp3.1\VerbalVersionOfNumber.dll
+C:\Users\HP\source\repos\VerbalVersionOfNumber\VerbalVersionOfNumber\obj\Debug\netcoreapp3.1\VerbalVersionOfNumber.pdb
+C:\Users\HP\source\repos\VerbalVersionOfNumber\VerbalVersionOfNumber\obj\Debug\netcoreapp3.1\VerbalVersionOfNumber.genruntimeconfig.cache
